@@ -1,4 +1,4 @@
-package org.example;
+package org.bowling;
 
 public final class Main {
 
